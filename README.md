@@ -14,6 +14,6 @@ When devloping this app, I started with the screen layouts in Android Studio, gi
 
 Testing for this mobile app was done manually through trial and error through the emulator. After each new component was added I tested to make sure everything worked together and nothing broke as well as the newly developed component such as logining in and/or registering an account as well as editing items and adding items was working properly. 
 
-<h1>Overview of Whish Knowledge, Skills, and/or Experience Were Displayed</h1>
+<h1>Overview of Which Knowledge, Skills, and/or Experience Were Displayed</h1>
 
 I feel like this project overall is a good representation on my skills, knowledge, and experience. My educational and professional experience has lead me to be able to write clean, maintainable, and resuable code which has become a skill of mine. This specific project shows how my knowledge can grow over the span of a short period of time and adapt and become succesful in developing new products in which I have no experience developing. 
